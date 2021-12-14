@@ -1,2 +1,2 @@
-# rantlet
-Official Rantemma Package Manager
+
+Rantlet is the official lang-package manager of the Rantemma Project.
